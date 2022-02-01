@@ -12,8 +12,8 @@ mommyissues@github
        WM  :  yabai
     Shell  :  zsh 5.8 \ PowerShell
  Terminal  :  iTerm2 \ Windows Terminal
-      CPU  :  Apple M1 \ Intel i9-12900K
-    Alias  :  clumsy/assfucker
+      CPU  :  Apple M1 \ Intel i9-12900
+    Alias  :  clumsy \ assfucker
 Languages  :  C, C++, C#, Python, Java, Javascript, CSS\SCSS\SASS, PHP
   Discord  :  145743963339489290
   

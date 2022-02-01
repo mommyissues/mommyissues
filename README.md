@@ -1,1 +1,1 @@
-![meow](https://github.com/mommyissues/mommyissues/main/readme.png?raw=true)
+![meow](https://github.com/mommyissues/mommyissues/blob/main/readme.png?raw=true)

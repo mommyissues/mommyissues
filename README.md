@@ -2,7 +2,7 @@
 > cum in bunghole
 ```
 
-<img align="left" src="https://github.com/mommyissues/mommyissues/blob/main/assets/image.png" alt="logo" width="190"/> 
+<img align="left" src="https://github.com/mommyissues/mommyissues/blob/main/assets/image.png" alt="logo" width="195"/> 
 
 ```csharp
 mommyissues@github

@@ -1,10 +1,8 @@
-<h1 style="align: center">0x19353bfB8a525A2ecfE61A17C4FF075a403a010B</h1>
-
 ```zsh
 > cum in bunghole
 ```
 
-<img align="left" src="https://github.com/mommyissues/mommyissues/blob/main/readme.png" alt="logo.png" width="200" style="border-radius:50%"/> 
+<img align="left" src="https://github.com/mommyissues/mommyissues/blob/main/readme.png" alt="logo.png" width="220" style="border-radius:50%"/> 
 
 ```csharp
 mommyissues@github
@@ -18,4 +16,6 @@ mommyissues@github
     Alias  :  clumsy/assfucker
 Languages  :  C, C++, C#, Python, Java, Javascript, CSS\SCSS\SASS, PHP
   Discord  :  145743963339489290
+  
+  0x19353bfB8a525A2ecfE61A17C4FF075a403a010B
 ```

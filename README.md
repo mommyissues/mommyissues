@@ -8,7 +8,7 @@
 mommyissues@github
 --------------------------------------------------------------------------------------------
 
-       OS  :  macOS arm64 \ Windows
+       OS  :  macOS arm64 \ Windows 11
        WM  :  yabai
     Shell  :  zsh 5.8 \ PowerShell
  Terminal  :  iTerm2 \ Windows Terminal

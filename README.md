@@ -16,6 +16,4 @@ mommyissues@github
     Alias  :  clumsy \ assfucker
 Languages  :  C \ C++ \ C#, Python, Java, Javascript, PHP, CSS \ SCSS \ SASS
   Discord  :  145743963339489290
-  
-0x19353bfB8a525A2ecfE61A17C4FF075a403a010B
 ```

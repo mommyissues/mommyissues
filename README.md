@@ -20,6 +20,6 @@ Languages  :  C \ C++ \ C#, Python, Java, Javascript, PHP, CSS \ SCSS \ SASS
 0x19353bfB8a525A2ecfE61A17C4FF075a403a010B
 ```
 
-Private repos <img src="https://github.com/mommyissues/mommyissues/blob/main/assets/lock.svg" width=20 /> : 1
+### <img src="https://github.com/mommyissues/mommyissues/blob/main/assets/lock.svg" width=15 /> <b>Private repos:</b> 1
 
-Public repos : 1
+### <b>Public repos:</b> 1

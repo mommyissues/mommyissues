@@ -21,5 +21,3 @@ Languages  :  C \ C++ \ C#, Python, Java, Javascript, PHP, CSS \ SCSS \ SASS
 ```
 
 ### <b>Private repos <img src="https://github.com/mommyissues/mommyissues/blob/main/assets/lock.svg" width=15 /> :</b> 1
-
-### <b>Public repos :</b> 1

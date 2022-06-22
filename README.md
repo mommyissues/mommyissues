@@ -1,5 +1,5 @@
 ```zsh
-> cum in bunghole
+> chief sosa baby I been ballin hard no discount
 ```
 
 <img align="left" src="https://github.com/mommyissues/mommyissues/blob/main/assets/image.png" alt="logo" width="192.5"/> 
